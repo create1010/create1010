@@ -26,8 +26,8 @@ I am a **Web Designer** transitioning from a technical background to the world o
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=create1010&show_icons=true&theme=vibrant&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=create1010&layout=compact&theme=vibrant" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=create1010&show_icons=true&theme=transparent&title_color=007acc&text_color=333&icon_color=007acc&bg_color=ffffff00" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=create1010&layout=compact&theme=transparent&title_color=007acc&text_color=333&icon_color=007acc&bg_color=ffffff00" />
 </p>
 
 ---
