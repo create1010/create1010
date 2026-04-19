@@ -1,15 +1,45 @@
-<h1 align="center">Hi 👋, I'm John Chen</h1>
-<h3 align="center">From diverse experience to professional development, cross fields and achieve innovation!</h3>
+# Hi there, I'm John Chen 👋
+### Web Designer | UI/UX Enthusiast | WordPress Specialist
 
-- 🔭 I’m currently working on [Explore Taiwan](https://explore-taiwan.vercel.app/)
+I am a **Web Designer** transitioning from a technical background to the world of visual storytelling and digital experiences. Currently, I'm focusing on bridging the gap between aesthetics and functionality using modern no-code tools and design software.
 
-- 🌱 I’m currently learning **Vue、TailwindCSS、JavaScript**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/create1010](https://github.com/create1010)
+### 🛠️ My Creative Toolbox
 
-- 📫 How to reach me **plae56782@gmail.com**
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Design** | ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
+| **Web Building** | ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-%2392003B.svg?style=for-the-badge&logo=elementor&logoColor=white) |
+| **E-Commerce** | ![WooCommerce](https://img.shields.io/badge/WooCommerce-%2396588A.svg?style=for-the-badge&logo=woocommerce&logoColor=white) |
+| **Foundations** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
 
-- ⚡ Fun fact **Listen to music, play badminton, travel**
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### 🔍 What I’m Up To Right Now
+- 🎨 **Portfolio Design**: Planning and building my personal showcase site.
+- 🛒 **E-Shop Optimization**: Exploring advanced WooCommerce workflows.
+- 📐 **Design Systems**: Learning how to create scalable components in Figma.
+- 🏗️ **Elementor Mastery**: Crafting custom layouts and interactive web elements.
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=create1010&show_icons=true&theme=vibrant&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=create1010&layout=compact&theme=vibrant" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+- **Portfolio:** [Coming Soon]
+- **GitHub:** [create1010](https://github.com/create1010)
+- **Email:** [plae56782@gmail.com](mailto:plae56782@gmail.com)
+
+---
+
+### ⚡ Fun Facts
+- 🏸 You can find me on the **badminton** court when I'm not designing.
+- 🎧 I believe a good **playlist** is the secret ingredient to any design project.
+- ✈️ **Traveling** helps me find new perspectives and color palettes in the real world.
